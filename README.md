@@ -1,4 +1,4 @@
-![Battle Cats ONLINE](https://raw.githubusercontent.com/tackymacaroni/battlecats-online/adae790b65d51a4ecbbe6d13f6a3f8d19ebfff1d/bconline_banner.svg)
+![Battle Cats ONLINE](https://raw.githubusercontent.com/tackymacaroni/battlecats-online/c2c94fa353b1bad7d49018071facba5752de21d5/bconline_banner.svg)
 
 A currently in-progress attempt to re-create The Battle Cats engine in order to battle other players over the internet.
 
